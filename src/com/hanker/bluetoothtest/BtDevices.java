@@ -25,6 +25,10 @@ public class BtDevices extends Activity {
 	ArrayAdapter<String> mArrayDevice;
 	String BT_ADDRESS="B0:C4:E7:1E:01:63";
 	//String BT_ADDRESS="30:C3:65:18:66:12";
+	
+	// 
+	
+	//sa
 	public static String EXTRA_DEVICE_ADDRESS = "device_address";
 	
 	@Override
